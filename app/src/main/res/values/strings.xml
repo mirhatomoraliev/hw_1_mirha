@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw_1_mirha</string>
+    <string name="button">BUTTON</string>
+    <string name="first_text">First text</string>
+    <string name="second_text">Second text</string>
+    <string name="third_text">Third text</string>
+</resources>
